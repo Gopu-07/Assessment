@@ -1,0 +1,42 @@
+div {
+  position: relative;
+  top: 10%;
+  left: 10%;
+  font-family: "Poppins", sans-serif;
+  color: grey;
+}
+div h2 {
+  font-weight: 600;
+  padding-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  border-color: #f06292;
+  border-radius: 2px;
+  width: fit-content;
+}
+#usrname {
+  border-radius: 20px;
+  width: 200px;
+  height: 25px;
+  margin-bottom: 20px;
+}
+#psw {
+  border-radius: 20px;
+  width: 200px;
+  height: 25px;
+  margin-bottom: 20px;
+}
+
+input[type="submit"] {
+  width: 210px;
+  height: 35px;
+  border-radius: 20px;
+  background-color: #f06292;
+  border-color: #f06292;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  margin-top: 5px;
+}
+div p a {
+  color: #f06292;
+}
